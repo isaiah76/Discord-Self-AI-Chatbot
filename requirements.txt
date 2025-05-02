@@ -1,4 +1,5 @@
 discord.py
+discord-self.py
 python-dotenv
 langchain
 langchain-google-genai

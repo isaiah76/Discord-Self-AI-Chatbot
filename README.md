@@ -3,6 +3,7 @@
 Transform your Discord account into an AI chatbot using the Google Gemini AI models.
 
 > **Warning:** Use this tool at your own risk. I do not take any responsibility if your Discord account gets banned or faces any other consequences due to the use of this tool. Self-bots violate Discord's Terms of Service. Make sure you understand the risks before proceeding.
+> 🔴 **Issue:** Image generation does not work properly currently.
 
 ## Features
 

@@ -3,8 +3,8 @@ Bot owner configuration
 """
 
 # Owner identification
-OWNER_ID = "1234567890"
-OWNER_NAME = "Isaiah"
+OWNER_ID = "1234567890"  # put your discord id here
+OWNER_NAME = "Name"  # your name
 
 # System prompt for recognition of the owner and special interactions
 OWNER_RECOGNITION = f"""
